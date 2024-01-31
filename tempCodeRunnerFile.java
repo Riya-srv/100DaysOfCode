@@ -1,1 +1,1 @@
-arr1
+intersectionArray
